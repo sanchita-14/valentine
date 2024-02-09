@@ -18,6 +18,10 @@ body {
     margin-bottom: 0px;
 }
 
+h4{
+    margin-left:50vw;
+}
+
 .gif_container {
     display: flex;
     justify-content: center;
