@@ -17,9 +17,7 @@ body {
     margin-top: 20px;
     margin-bottom: 0px;
 }
-h4{
-    align-items:center;
-}
+
 
 
 
@@ -28,4 +26,7 @@ h4{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+h4{
+    align-items:center;
 }
